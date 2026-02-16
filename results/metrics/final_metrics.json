@@ -1,0 +1,20 @@
+{
+  "test_accuracy": 0.9525459877366036,
+  "best_epoch": 49,
+  "best_val_loss": 0.11072984441347712,
+  "total_epochs_trained": 50,
+  "per_class": {
+    "Cat": {
+      "precision": 0.9523809523809523,
+      "recall": 0.9533898305084746,
+      "f1_score": 0.9528851244044468,
+      "support": 1888
+    },
+    "Dog": {
+      "precision": 0.9527135948414831,
+      "recall": 0.9516908212560387,
+      "f1_score": 0.952201933404941,
+      "support": 1863
+    }
+  }
+}
