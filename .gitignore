@@ -3,5 +3,7 @@ results/models/
 __pycache__/
 *.pyc
 .venv/
+.claude/
 .ipynb_checkpoints/
 *.egg-info/
+uv.lock
